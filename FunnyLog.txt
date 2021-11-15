@@ -1,0 +1,8 @@
+This is a logfile for FunnySound scripts. . Records all events with timestamps. 
+
+Timestamp,Event
+
+2018-11-22 13:47:31,Started
+2018-11-22 14:09:56,Started
+2018-11-22 14:09:58,w pressed. Playing: /home/pi/Dev/17_-_FunnySoundKeyboard/Sounds/w/Cork_twist_&_pop.mp3
+2018-11-22 14:10:15,q pressed, exiting.
